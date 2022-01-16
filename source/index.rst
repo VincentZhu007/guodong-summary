@@ -11,6 +11,9 @@ Welcome to Guodong's Wiki's documentation!
    :caption: Contents:
 
    stl-vector
+   config-loader
+   vscode
+   cheatsheet
 
 Indices and tables
 ==================
