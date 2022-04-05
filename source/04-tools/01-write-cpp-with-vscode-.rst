@@ -1,11 +1,12 @@
-=====================
-vscode C++开发笔记
-=====================
-:Author: Guodong Zhu
-:Contact: VincentZhu007@gmail.com
-:Revision: 1.0.0
-:Date: 2022-01-06
-:Copyright: This document has been placed in the public domain.
+======================================================
+使用Visual Code搭建C++开发环境[WIP]
+======================================================
+
++---------+-----------------+
+| Author  | Guodong Zhu     |
++---------+-----------------+
+| Version | 0.9.0           |
++---------+-----------------+
 
 1、vscode C++开发环境搭建
 ==============================
@@ -14,7 +15,7 @@ vscode C++开发笔记
 
 打开vscode扩展（快捷键：``Ctrl + Shift + X`` ），安装 ``C++ extension for VS Code``
 
-.. image:: images/cpp-extension.png
+.. image:: ../90-images/cpp-extension.png
     :alt: cpp-extension
     :align: center
 
