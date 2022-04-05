@@ -1,14 +1,17 @@
-# guodong-wiki
+# guodong-summary
 
-个人技术wiki的源码管理仓。
+### 项目简介
 
-使用sphinx编写。
+此项目为《果冻的技术总结》的源码仓。文档使用 sphinx & rst 编写。
 
----
+- [《果冻的技术总结》主页](https://guodong-summary.readthedocs.io/en/latest/)
 
-## 构建
+- PDF、Epub等[文档下载](https://readthedocs.org/projects/guodong-summary/downloads/)
 
-### mac os
+
+### 从源码构建
+
+#### mac os
 
 1、安装依赖
 
@@ -23,7 +26,7 @@ $ pip install sphinx-rtd-theme
 $ make html
 ```
 
-### ubuntu 20.04
+#### ubuntu 20.04
 
 1、安装sphinx
 ```shell
@@ -40,4 +43,3 @@ $ pip install sphinx_rtd_theme
 $ make html
 ```
 
----
