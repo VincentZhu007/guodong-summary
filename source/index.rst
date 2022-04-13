@@ -34,6 +34,13 @@
 
    04-tools/*
 
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :caption: 设计模式
+
+   05-design-patterns/*
+
 .. toctree:: 
    :maxdepth: 1
    :glob:
